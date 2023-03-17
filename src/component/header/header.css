@@ -7,6 +7,7 @@ header {
   .header_container {
     text-align: center;
     height: 100%;
+    
     position: relative;
   }
   
@@ -75,7 +76,7 @@ header {
   
   @media screen and (max-width: 1024px) {
     header {
-      height: 68vh;
+      height: 44rem;
     }
   }
   
@@ -83,7 +84,7 @@ header {
   
   @media screen and (max-width: 600px) {
       header {
-         height: 60rem;
+         height: 50rem;
         }
       
       .header_socials, .scroll_down {

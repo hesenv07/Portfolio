@@ -23,7 +23,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className="about_card">
@@ -39,8 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Innovative Front End Developer with 1+ years experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, jQuery, JavaScript and React; plus modern libraries and frameworks. Implemented new responsive website approach which increased mobile traffic by 20%.Well-versed in Scrum and Agile.
-          </p>
+          I am a software engineer and have 2 + years experience. I help companies to build full  complex web applications servering and natively-rendered mobile apps for iOS and Android 100,000 + users          </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>
